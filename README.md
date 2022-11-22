@@ -2,7 +2,7 @@ Olá 😁
 
   Estudante de Analise e desenvolvimento de sistemas💻
   
-  Uma full stach novata na area!
+  Uma full stack novata na area!
   
   
   
