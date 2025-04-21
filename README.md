@@ -1,8 +1,10 @@
 Olá 😁
 
-  Estudante de Analise e desenvolvimento de sistemas💻
+  Formada em Analise e desenvolvimento de sistemas💻
   
   Uma full stack novata na area!
+
+  Buscando minha primeira colocação para investir em mais estudos
   
   
   
