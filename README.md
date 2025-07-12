@@ -1,5 +1,7 @@
 
 Olá! 😁
+
+
 Sou Leticia Cruz da Silva Oliveira
 Formada em Análise e Desenvolvimento de Sistemas 💻, sou uma desenvolvedora Full Stack novata na área, buscando minha primeira colocação para investir na carreira de dados , e em mais estudos e aprimorar minhas habilidades.
 
